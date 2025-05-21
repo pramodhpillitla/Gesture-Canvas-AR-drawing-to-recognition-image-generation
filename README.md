@@ -34,20 +34,20 @@ python gesture_canvas.py
 Press q: Quit the app
 
 📦 Dependencies
+
 opencv-python
-
 numpy
-
 cvzone
-
 Pillow
-
 requests
-
 google-generativeai
 
 📌 Notes
-Requires a working webcam.
 
+Requires a working webcam.
 Avoid pushing your API keys to GitHub – use .env and .gitignore.
+
+📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
 
