@@ -12,16 +12,17 @@ GestureCanvas is an interactive AI-based AR tool that allows users to draw in th
 ## Getting Started
 
 1. Clone the Repository
+
 git clone https://github.com/pramodhpillitla/Gesture-Canvas-AR-drawing-to-recognition-image-generation.git
 cd GestureCanvas
 
-2. Install Requirements
+3. Install Requirements
 pip install -r requirements.txt
 
-3. Set API Keys
+4. Set API Keys
 Replace the API keys in gesture_canvas.py or use .env and python-dotenv.
 
-4. Run the App
+5. Run the App
 python gesture_canvas.py
 
 🧪 Controls
